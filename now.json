@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "search-itunes",
+  "alias": "search-itunes.now.sh",
+  "builds": [
+    {
+      "src": "index.js",
+      "use": "@now/node"
+    }
+  ]
+}
